@@ -28,6 +28,3 @@ This app features all the latest tools and practices in mobile development!
 1. Move yourself to the mobile folder: `cd mobile`
 2. Run `react-native run-ios` (or run-android if your prefer) to start the mobile app
 3. Note: If you choose to start the mobile app in the android emulator, you will have to start the emulator before using the `run-android` command.
-
-# License
-This project is licensed under the MIT License - see the LICENSE page for details.
